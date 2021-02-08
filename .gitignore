@@ -1,0 +1,6 @@
+/keys/*
+!/keys/.gitkeep
+/emulator/*
+!/emulator/.gitkeep
+
+.env
